@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the associated paper."
+type: software
+title: "HydroGeoRisk-ML: Integrated Contamination and Risk Assessment Framework"
+authors:
+  - family-names: "Kola-Aderoju"
+    given-names: "Abdulmalik"
+    
+repository-code: "https://github.com/kolacodes-db/Geospatial and Machine learning Hydrogeological modelling"

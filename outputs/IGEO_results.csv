@@ -1,0 +1,226 @@
+Sample,Metal,Igeo,Classification,Interpretation
+AJA1,Fe,1.3149864854685156,Moderately Polluted,Moderate enrichment.
+AJA1,Pb,6.339850002884624,Extremely Polluted,Severe contamination.
+AJA1,Cu,3.5443205162238103,Heavily Polluted,Serious anthropogenic impact.
+AJA1,Cr,4.142957953842043,Heavily to Extremely Polluted,Very high pollution.
+AJA1,Mn,3.3523818914290757,Heavily Polluted,Serious anthropogenic impact.
+AJA1,Zn,4.82273014794452,Heavily to Extremely Polluted,Very high pollution.
+AJA1,Ni,1.5360529002402097,Moderately Polluted,Moderate enrichment.
+AJA1,Co,-0.7369655941662062,Unpolluted,Background concentration.
+AJA1,Cd,6.426264754702098,Extremely Polluted,Severe contamination.
+AJA2,Fe,0.7913278826158954,Unpolluted to Moderately Polluted,Minor contamination.
+AJA2,Pb,5.8988532765431,Extremely Polluted,Severe contamination.
+AJA2,Cu,3.1043366598147357,Heavily Polluted,Serious anthropogenic impact.
+AJA2,Cr,3.9068905956085187,Heavily Polluted,Serious anthropogenic impact.
+AJA2,Mn,2.995182983702224,Moderately to Heavily Polluted,Significant contamination.
+AJA2,Zn,3.867896463992655,Heavily Polluted,Serious anthropogenic impact.
+AJA2,Ni,0.5193741590935794,Unpolluted to Moderately Polluted,Minor contamination.
+AJA2,Co,-0.9068905956085186,Unpolluted,Background concentration.
+AJA2,Cd,5.938599455335857,Extremely Polluted,Severe contamination.
+AJA3,Fe,0.4702331535209685,Unpolluted to Moderately Polluted,Minor contamination.
+AJA3,Pb,5.115477217419936,Extremely Polluted,Severe contamination.
+AJA3,Cu,2.8210298589546805,Moderately to Heavily Polluted,Significant contamination.
+AJA3,Cr,3.841302253980942,Heavily Polluted,Serious anthropogenic impact.
+AJA3,Mn,2.2509615735332185,Moderately to Heavily Polluted,Significant contamination.
+AJA3,Zn,3.041476635976159,Heavily Polluted,Serious anthropogenic impact.
+AJA3,Ni,0.04730571477835682,Unpolluted to Moderately Polluted,Minor contamination.
+AJA3,Co,-1.3219280948873622,Unpolluted,Background concentration.
+AJA3,Cd,4.54432051622381,Heavily to Extremely Polluted,Very high pollution.
+AJA4,Fe,-2.6378574491532816,Unpolluted,Background concentration.
+AJA4,Pb,4.523561956057013,Heavily to Extremely Polluted,Very high pollution.
+AJA4,Cu,2.3968901525685844,Moderately to Heavily Polluted,Significant contamination.
+AJA4,Cr,3.3692338096657193,Heavily Polluted,Serious anthropogenic impact.
+AJA4,Mn,1.0840642647884742,Moderately Polluted,Moderate enrichment.
+AJA4,Zn,1.6629650127224294,Moderately Polluted,Moderate enrichment.
+AJA4,Ni,-1.7369655941662063,Unpolluted,Background concentration.
+AJA4,Co,-2.321928094887362,Unpolluted,Background concentration.
+AJA4,Cd,0.41503749927884376,Unpolluted to Moderately Polluted,Minor contamination.
+AJA5,Fe,-0.6038405109268455,Unpolluted,Background concentration.
+AJA5,Pb,4.700439718141092,Heavily to Extremely Polluted,Very high pollution.
+AJA5,Cu,2.5525410230287786,Moderately to Heavily Polluted,Significant contamination.
+AJA5,Cr,3.7725895038969273,Heavily Polluted,Serious anthropogenic impact.
+AJA5,Mn,1.3932331289604953,Moderately Polluted,Moderate enrichment.
+AJA5,Zn,1.84799690655495,Moderately Polluted,Moderate enrichment.
+AJA5,Ni,-0.8194277543581788,Unpolluted,Background concentration.
+AJA5,Co,-1.9068905956085185,Unpolluted,Background concentration.
+AJA5,Cd,0.41503749927884376,Unpolluted to Moderately Polluted,Minor contamination.
+AJA6,Fe,-0.6229688233009011,Unpolluted,Background concentration.
+AJA6,Pb,4.754887502163468,Heavily to Extremely Polluted,Very high pollution.
+AJA6,Cu,2.5193741590935796,Moderately to Heavily Polluted,Significant contamination.
+AJA6,Cr,3.736965594166206,Heavily Polluted,Serious anthropogenic impact.
+AJA6,Mn,1.302562770020431,Moderately Polluted,Moderate enrichment.
+AJA6,Zn,1.8073549220576042,Moderately Polluted,Moderate enrichment.
+AJA6,Ni,-1.2064508774674263,Unpolluted,Background concentration.
+AJA6,Co,-1.9068905956085185,Unpolluted,Background concentration.
+AJA6,Cd,0.41503749927884376,Unpolluted to Moderately Polluted,Minor contamination.
+AJA7,Fe,-2.416320465162317,Unpolluted,Background concentration.
+AJA7,Pb,4.415037499278844,Heavily to Extremely Polluted,Very high pollution.
+AJA7,Cu,2.2829339632714984,Moderately to Heavily Polluted,Significant contamination.
+AJA7,Cr,3.273018494406416,Heavily Polluted,Serious anthropogenic impact.
+AJA7,Mn,1.074962057681222,Moderately Polluted,Moderate enrichment.
+AJA7,Zn,1.3025627700204314,Moderately Polluted,Moderate enrichment.
+AJA7,Ni,-2.0995356735509145,Unpolluted,Background concentration.
+AJA7,Co,-2.321928094887362,Unpolluted,Background concentration.
+AJA7,Cd,0.41503749927884376,Unpolluted to Moderately Polluted,Minor contamination.
+AJA8,Fe,-0.8765545172375598,Unpolluted,Background concentration.
+AJA8,Pb,4.700439718141092,Heavily to Extremely Polluted,Very high pollution.
+AJA8,Cu,2.4681488357384063,Moderately to Heavily Polluted,Significant contamination.
+AJA8,Cr,3.9385994553358565,Heavily Polluted,Serious anthropogenic impact.
+AJA8,Mn,1.2868811477881612,Moderately Polluted,Moderate enrichment.
+AJA8,Zn,1.7224660244710912,Moderately Polluted,Moderate enrichment.
+AJA8,Ni,-1.0,Unpolluted,Background concentration.
+AJA8,Co,-2.321928094887362,Unpolluted,Background concentration.
+AJA8,Cd,0.41503749927884376,Unpolluted to Moderately Polluted,Minor contamination.
+AJA9,Fe,-2.479284422826619,Unpolluted,Background concentration.
+AJA9,Pb,4.481126689736616,Heavily to Extremely Polluted,Very high pollution.
+AJA9,Cu,2.321928094887362,Moderately to Heavily Polluted,Significant contamination.
+AJA9,Cr,3.5025003405291835,Heavily Polluted,Serious anthropogenic impact.
+AJA9,Mn,1.0658020583957457,Moderately Polluted,Moderate enrichment.
+AJA9,Zn,1.3219280948873624,Moderately Polluted,Moderate enrichment.
+AJA9,Ni,-2.321928094887362,Unpolluted,Background concentration.
+AJA9,Co,-2.321928094887362,Unpolluted,Background concentration.
+AJA9,Cd,0.41503749927884376,Unpolluted to Moderately Polluted,Minor contamination.
+AJA10,Fe,-1.1866121303751913,Unpolluted,Background concentration.
+AJA10,Pb,4.662965012722429,Heavily to Extremely Polluted,Very high pollution.
+AJA10,Cu,2.5025003405291835,Moderately to Heavily Polluted,Significant contamination.
+AJA10,Cr,3.841302253980942,Heavily Polluted,Serious anthropogenic impact.
+AJA10,Mn,1.2549970867683753,Moderately Polluted,Moderate enrichment.
+AJA10,Zn,1.6629650127224294,Moderately Polluted,Moderate enrichment.
+AJA10,Ni,-1.7369655941662063,Unpolluted,Background concentration.
+AJA10,Co,-2.321928094887362,Unpolluted,Background concentration.
+AJA10,Cd,0.41503749927884376,Unpolluted to Moderately Polluted,Minor contamination.
+AJA11,Fe,-2.6378574491532816,Unpolluted,Background concentration.
+AJA11,Pb,4.369233809665719,Heavily to Extremely Polluted,Very high pollution.
+AJA11,Cu,2.321928094887362,Moderately to Heavily Polluted,Significant contamination.
+AJA11,Cr,3.415037499278844,Heavily Polluted,Serious anthropogenic impact.
+AJA11,Mn,1.1110313123887436,Moderately Polluted,Moderate enrichment.
+AJA11,Zn,1.0238467419543678,Moderately Polluted,Moderate enrichment.
+AJA11,Ni,-2.9068905956085187,Unpolluted,Background concentration.
+AJA11,Co,-2.321928094887362,Unpolluted,Background concentration.
+AJA11,Cd,0.41503749927884376,Unpolluted to Moderately Polluted,Minor contamination.
+AJA12,Fe,-1.3291596641184382,Unpolluted,Background concentration.
+AJA12,Pb,4.624490864907793,Heavily to Extremely Polluted,Very high pollution.
+AJA12,Cu,2.37851162325373,Moderately to Heavily Polluted,Significant contamination.
+AJA12,Cr,3.807354922057604,Heavily Polluted,Serious anthropogenic impact.
+AJA12,Mn,1.189033824390017,Moderately Polluted,Moderate enrichment.
+AJA12,Zn,1.2829339632714987,Moderately Polluted,Moderate enrichment.
+AJA12,Ni,-2.584962500721156,Unpolluted,Background concentration.
+AJA12,Co,-2.321928094887362,Unpolluted,Background concentration.
+AJA12,Cd,0.41503749927884376,Unpolluted to Moderately Polluted,Minor contamination.
+AJA13,Fe,-2.649879977402495,Unpolluted,Background concentration.
+AJA13,Pb,4.169925001442312,Heavily to Extremely Polluted,Very high pollution.
+AJA13,Cu,2.0931094043914813,Moderately to Heavily Polluted,Significant contamination.
+AJA13,Cr,3.222392421336448,Heavily Polluted,Serious anthropogenic impact.
+AJA13,Mn,0.3858911536193271,Unpolluted to Moderately Polluted,Minor contamination.
+AJA13,Zn,1.450661409009565,Moderately Polluted,Moderate enrichment.
+AJA13,Ni,-3.321928094887362,Unpolluted,Background concentration.
+AJA13,Co,-2.321928094887362,Unpolluted,Background concentration.
+AJA13,Cd,0.41503749927884376,Unpolluted to Moderately Polluted,Minor contamination.
+AJA14,Fe,-1.0933659063107082,Unpolluted,Background concentration.
+AJA14,Pb,4.643856189774724,Heavily to Extremely Polluted,Very high pollution.
+AJA14,Cu,2.341036917835067,Moderately to Heavily Polluted,Significant contamination.
+AJA14,Cr,4.0,Heavily Polluted,Serious anthropogenic impact.
+AJA14,Mn,1.2223924213364477,Moderately Polluted,Moderate enrichment.
+AJA14,Zn,1.2630344058337937,Moderately Polluted,Moderate enrichment.
+AJA14,Ni,-2.9068905956085187,Unpolluted,Background concentration.
+AJA14,Co,-2.321928094887362,Unpolluted,Background concentration.
+AJA14,Cd,0.41503749927884376,Unpolluted to Moderately Polluted,Minor contamination.
+AJA15,Fe,-1.517323783845793,Unpolluted,Background concentration.
+AJA15,Pb,4.502500340529183,Heavily to Extremely Polluted,Very high pollution.
+AJA15,Cu,2.263034405833794,Moderately to Heavily Polluted,Significant contamination.
+AJA15,Cr,3.807354922057604,Heavily Polluted,Serious anthropogenic impact.
+AJA15,Mn,1.1548856019781713,Moderately Polluted,Moderate enrichment.
+AJA15,Zn,1.159198594849254,Moderately Polluted,Moderate enrichment.
+AJA15,Ni,-2.9068905956085187,Unpolluted,Background concentration.
+AJA15,Co,-2.321928094887362,Unpolluted,Background concentration.
+AJA15,Cd,0.41503749927884376,Unpolluted to Moderately Polluted,Minor contamination.
+AJA16,Fe,-1.406088542551361,Unpolluted,Background concentration.
+AJA16,Pb,4.481126689736616,Heavily to Extremely Polluted,Very high pollution.
+AJA16,Cu,2.2829339632714984,Moderately to Heavily Polluted,Significant contamination.
+AJA16,Cr,3.8744691179161412,Heavily Polluted,Serious anthropogenic impact.
+AJA16,Mn,1.1375035237499347,Moderately Polluted,Moderate enrichment.
+AJA16,Zn,1.070389327891398,Moderately Polluted,Moderate enrichment.
+AJA16,Ni,-2.9068905956085187,Unpolluted,Background concentration.
+AJA16,Co,-2.321928094887362,Unpolluted,Background concentration.
+AJA16,Cd,0.41503749927884376,Unpolluted to Moderately Polluted,Minor contamination.
+AJA17,Fe,-1.3291596641184382,Unpolluted,Background concentration.
+AJA17,Pb,4.584962500721156,Heavily to Extremely Polluted,Very high pollution.
+AJA17,Cu,2.341036917835067,Moderately to Heavily Polluted,Significant contamination.
+AJA17,Cr,3.9068905956085187,Heavily Polluted,Serious anthropogenic impact.
+AJA17,Mn,1.1974460642062168,Moderately Polluted,Moderate enrichment.
+AJA17,Zn,1.1375035237499351,Moderately Polluted,Moderate enrichment.
+AJA17,Ni,-2.584962500721156,Unpolluted,Background concentration.
+AJA17,Co,-2.321928094887362,Unpolluted,Background concentration.
+AJA17,Cd,0.41503749927884376,Unpolluted to Moderately Polluted,Minor contamination.
+AJA18,Fe,-2.7628442259918113,Unpolluted,Background concentration.
+AJA18,Pb,4.0,Heavily Polluted,Serious anthropogenic impact.
+AJA18,Cu,2.0473057147783567,Moderately to Heavily Polluted,Significant contamination.
+AJA18,Cr,3.273018494406416,Heavily Polluted,Serious anthropogenic impact.
+AJA18,Mn,0.21412480535284706,Unpolluted to Moderately Polluted,Minor contamination.
+AJA18,Zn,1.0473057147783569,Moderately Polluted,Moderate enrichment.
+AJA18,Ni,-3.321928094887362,Unpolluted,Background concentration.
+AJA18,Co,-2.321928094887362,Unpolluted,Background concentration.
+AJA18,Cd,0.41503749927884376,Unpolluted to Moderately Polluted,Minor contamination.
+AJA19,Fe,0.6216807232622392,Unpolluted to Moderately Polluted,Minor contamination.
+AJA19,Pb,4.415037499278844,Heavily to Extremely Polluted,Very high pollution.
+AJA19,Cu,2.263034405833794,Moderately to Heavily Polluted,Significant contamination.
+AJA19,Cr,3.8744691179161412,Heavily Polluted,Serious anthropogenic impact.
+AJA19,Mn,0.9310526462825083,Unpolluted to Moderately Polluted,Minor contamination.
+AJA19,Zn,1.070389327891398,Moderately Polluted,Moderate enrichment.
+AJA19,Ni,-3.321928094887362,Unpolluted,Background concentration.
+AJA19,Co,-2.321928094887362,Unpolluted,Background concentration.
+AJA19,Cd,0.41503749927884376,Unpolluted to Moderately Polluted,Minor contamination.
+AJA20,Fe,-1.6773026728678668,Unpolluted,Background concentration.
+AJA20,Pb,4.564784618783526,Heavily to Extremely Polluted,Very high pollution.
+AJA20,Cu,2.201633861169651,Moderately to Heavily Polluted,Significant contamination.
+AJA20,Cr,3.584962500721156,Heavily Polluted,Serious anthropogenic impact.
+AJA20,Mn,1.1720607457863033,Moderately Polluted,Moderate enrichment.
+AJA20,Zn,1.0473057147783569,Moderately Polluted,Moderate enrichment.
+AJA20,Ni,-3.321928094887362,Unpolluted,Background concentration.
+AJA20,Co,-2.321928094887362,Unpolluted,Background concentration.
+AJA20,Cd,0.41503749927884376,Unpolluted to Moderately Polluted,Minor contamination.
+AJA21,Fe,0.3455856185266986,Unpolluted to Moderately Polluted,Minor contamination.
+AJA21,Pb,5.448460500816294,Extremely Polluted,Severe contamination.
+AJA21,Cu,2.7513208871432764,Moderately to Heavily Polluted,Significant contamination.
+AJA21,Cr,3.7725895038969273,Heavily Polluted,Serious anthropogenic impact.
+AJA21,Mn,2.102098187618736,Moderately to Heavily Polluted,Significant contamination.
+AJA21,Zn,3.548436624696042,Heavily Polluted,Serious anthropogenic impact.
+AJA21,Ni,0.4506614090095652,Unpolluted to Moderately Polluted,Minor contamination.
+AJA21,Co,-1.3219280948873622,Unpolluted,Background concentration.
+AJA21,Cd,4.222392421336448,Heavily to Extremely Polluted,Very high pollution.
+AJA22,Fe,-0.15414200420138466,Unpolluted,Background concentration.
+AJA22,Pb,5.247927513443585,Extremely Polluted,Severe contamination.
+AJA22,Cu,2.7078192485066896,Moderately to Heavily Polluted,Significant contamination.
+AJA22,Cr,3.662965012722429,Heavily Polluted,Serious anthropogenic impact.
+AJA22,Mn,1.9903498299662805,Moderately Polluted,Moderate enrichment.
+AJA22,Zn,3.48971418557334,Heavily Polluted,Serious anthropogenic impact.
+AJA22,Ni,0.2630344058337938,Unpolluted to Moderately Polluted,Minor contamination.
+AJA22,Co,-1.3219280948873622,Unpolluted,Background concentration.
+AJA22,Cd,4.54432051622381,Heavily to Extremely Polluted,Very high pollution.
+AJA23,Fe,-0.19319478076515947,Unpolluted,Background concentration.
+AJA23,Pb,5.470319934780034,Extremely Polluted,Severe contamination.
+AJA23,Cu,2.84799690655495,Moderately to Heavily Polluted,Significant contamination.
+AJA23,Cr,3.736965594166206,Heavily Polluted,Serious anthropogenic impact.
+AJA23,Mn,2.1634987322828794,Moderately to Heavily Polluted,Significant contamination.
+AJA23,Zn,3.263034405833794,Heavily Polluted,Serious anthropogenic impact.
+AJA23,Ni,0.3785116232537299,Unpolluted to Moderately Polluted,Minor contamination.
+AJA23,Co,-1.584962500721156,Unpolluted,Background concentration.
+AJA23,Cd,3.8744691179161412,Heavily Polluted,Serious anthropogenic impact.
+AJA24,Fe,-0.04990490582631376,Unpolluted,Background concentration.
+AJA24,Pb,5.415037499278844,Extremely Polluted,Severe contamination.
+AJA24,Cu,3.0,Moderately to Heavily Polluted,Significant contamination.
+AJA24,Cr,3.5443205162238103,Heavily Polluted,Serious anthropogenic impact.
+AJA24,Mn,1.8692133924646457,Moderately Polluted,Moderate enrichment.
+AJA24,Zn,3.34577483684173,Heavily Polluted,Serious anthropogenic impact.
+AJA24,Ni,0.5849625007211562,Unpolluted to Moderately Polluted,Minor contamination.
+AJA24,Co,-1.3219280948873622,Unpolluted,Background concentration.
+AJA24,Cd,2.8744691179161412,Moderately to Heavily Polluted,Significant contamination.
+AJA25,Fe,-0.24013400372371502,Unpolluted,Background concentration.
+AJA25,Pb,5.5339785720023515,Extremely Polluted,Severe contamination.
+AJA25,Cu,2.963474123974886,Moderately to Heavily Polluted,Significant contamination.
+AJA25,Cr,3.3692338096657193,Heavily Polluted,Serious anthropogenic impact.
+AJA25,Mn,2.0048009862638208,Moderately to Heavily Polluted,Significant contamination.
+AJA25,Zn,3.3074285251922473,Heavily Polluted,Serious anthropogenic impact.
+AJA25,Ni,0.22239242133644802,Unpolluted to Moderately Polluted,Minor contamination.
+AJA25,Co,-1.3219280948873622,Unpolluted,Background concentration.
+AJA25,Cd,2.415037499278844,Moderately to Heavily Polluted,Significant contamination.
